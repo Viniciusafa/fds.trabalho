@@ -1,0 +1,13 @@
+html{background-color: beige;}
+
+H1{color: red;text-align: center;}
+
+p{font-size: 20px;text-align: justify;}
+
+li{margin-bottom: 2%;}
+
+img{border-radius: 10%;max-width: 512px;}
+
+table{border-width: 20px;border-color: blue; border-style: double;}
+
+a{color: blue;}a:hover{color: red;}
